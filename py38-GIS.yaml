@@ -6,6 +6,8 @@ channels:
 
 dependencies:
   - python=3.8
+  - psycopg2
+  - sqlalchemy
   - jupyterlab
   - jupyterlab-git
   - matplotlib
